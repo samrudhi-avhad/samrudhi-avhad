@@ -12,28 +12,20 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.icons8.com/color/64/gmail-new.png"/>
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/64/twitter--v1.png"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/64/instagram-new.png"/>
-  </a>
-  <a href="https://github.com/samrudhi-avhad">
-    <img src="https://img.icons8.com/ios-glyphs/64/ffffff/github.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://img.icons8.com/color/64/linkedin.png"/>
-  </a>
-  <a href="https://dev.to/YOUR_USERNAME">
-    <img src="https://img.icons8.com/windows/64/ffffff/dev.png"/>
-  </a>
-</p>
+| 📁 Project | 📝 Description | 🛠 Tools | 🔗 Link |
+|-----------|---------------|---------|--------|
+| Loan Approval Prediction | ML-based automated loan approval system | Python, ML, Excel | [View Repo](https://github.com/samrudhi-avhad/loan-approval-prediction) |
+| Credit Card Default Prediction | Classification model to predict default risk | Python, ML | [View Repo](https://github.com/samrudhi-avhad/credit-card-default-prediction) |
+| Customer Churn Prediction | Identified churn drivers & built prediction model | Python, ML | [View Repo](https://github.com/samrudhi-avhad/customer-churn-prediction) |
+| Wine Quality Prediction | Regression model for wine quality | Python, ML | [View Repo](https://github.com/samrudhi-avhad/wine-quality-prediction) |
+| Superstore Analysis | Retail data insights & trends | Excel, Python | [View Repo](https://github.com/samrudhi-avhad/superstore-analysis) |
+| Blinkit Dashboard | Sales analytics dashboard | Excel | [View Project](https://github.com/samrudhi-avhad/blinkit-dashboard) |
+| D-Mart Sales Report | Retail KPI & trend analysis | Power BI | [View Report](https://github.com/samrudhi-avhad/d-mart-sales-report) |
+| Global Music Dashboard | Revenue & catalog insights | Power BI | [View Dashboard](https://github.com/samrudhi-avhad/global-music-dashboard) |
+| Insurance Analysis Dashboard | Policy & claims analysis | Power BI | [View Dashboard](https://github.com/samrudhi-avhad/insurance-analysis-dashboard) |
+| AI Twitter Support Classification | NLP + GRU model deployed using Streamlit | Python, NLP, DL | [View Repo](https://github.com/samrudhi-avhad/twitter-support-classification) |
 
 ---
 
@@ -80,22 +72,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 📁 Project | 📝 Description | 🛠 Tools | 🔗 Link |
-|-----------|---------------|---------|--------|
-| Loan Approval Prediction | ML-based automated loan approval system | Python, ML, Excel | [View Repo](https://github.com/samrudhi-avhad/loan-approval-prediction) |
-| Credit Card Default Prediction | Classification model to predict default risk | Python, ML | [View Repo](https://github.com/samrudhi-avhad/credit-card-default-prediction) |
-| Customer Churn Prediction | Identified churn drivers & built prediction model | Python, ML | [View Repo](https://github.com/samrudhi-avhad/customer-churn-prediction) |
-| Wine Quality Prediction | Regression model for wine quality | Python, ML | [View Repo](https://github.com/samrudhi-avhad/wine-quality-prediction) |
-| Superstore Analysis | Retail data insights & trends | Excel, Python | [View Repo](https://github.com/samrudhi-avhad/superstore-analysis) |
-| Blinkit Dashboard | Sales analytics dashboard | Excel | [View Project](https://github.com/samrudhi-avhad/blinkit-dashboard) |
-| D-Mart Sales Report | Retail KPI & trend analysis | Power BI | [View Report](https://github.com/samrudhi-avhad/d-mart-sales-report) |
-| Global Music Dashboard | Revenue & catalog insights | Power BI | [View Dashboard](https://github.com/samrudhi-avhad/global-music-dashboard) |
-| Insurance Analysis Dashboard | Policy & claims analysis | Power BI | [View Dashboard](https://github.com/samrudhi-avhad/insurance-analysis-dashboard) |
-| AI Twitter Support Classification | NLP + GRU model deployed using Streamlit | Python, NLP, DL | [View Repo](https://github.com/samrudhi-avhad/twitter-support-classification) |
-
----
 
 ## 📊 GitHub Stats
 
@@ -103,5 +79,30 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samrudhi-avhad&theme=dark" alt="GitHub Streak" /></a>
 
 ---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.icons8.com/color/64/gmail-new.png"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/64/twitter--v1.png"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/64/instagram-new.png"/>
+  </a>
+  <a href="https://github.com/samrudhi-avhad">
+    <img src="https://img.icons8.com/ios-glyphs/64/ffffff/github.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.icons8.com/color/64/linkedin.png"/>
+  </a>
+  <a href="https://dev.to/YOUR_USERNAME">
+    <img src="https://img.icons8.com/windows/64/ffffff/dev.png"/>
+  </a>
+</p>
+
+
 
 ⭐ *Thanks for visiting my profile. Feel free to explore my repositories and connect!*  
