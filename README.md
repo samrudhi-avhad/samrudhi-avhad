@@ -41,7 +41,6 @@
 
 ### 🖥 Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
-![R](https://skillicons.dev/icons?i=r)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -100,7 +99,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrudhi-avhad&show_icons=true&theme=tokyonight&hide_border=true)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samrudhi-avhad&theme=dark" alt="GitHub Streak" /></a>
 
