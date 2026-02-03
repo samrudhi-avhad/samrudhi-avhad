@@ -16,7 +16,7 @@
 
 | 📁 Project | 📝 Description | 🛠 Tools | 🔗 Link |
 |-----------|---------------|---------|--------|
-| Loan Approval Prediction | ML-based automated loan approval system | Python, ML, Excel | [View Repo](https://github.com/samrudhi-avhad/loan-approval-prediction) |
+| Loan Approval Prediction | ML-based automated loan approval system | Python, ML, Excel | [View Repo](https://github.com/samrudhi-avhad/Customer_beahiover_analysis) |
 | Credit Card Default Prediction | Classification model to predict default risk | Python, ML | [View Repo](https://github.com/samrudhi-avhad/credit-card-default-prediction) |
 | Customer Churn Prediction | Identified churn drivers & built prediction model | Python, ML | [View Repo](https://github.com/samrudhi-avhad/customer-churn-prediction) |
 | Wine Quality Prediction | Regression model for wine quality | Python, ML | [View Repo](https://github.com/samrudhi-avhad/wine-quality-prediction) |
